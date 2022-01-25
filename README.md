@@ -15,7 +15,7 @@ In order to view the website's complete range and functionality, you can host th
 git clone -b master https://github.com/Vashesh08/Flask-User-Blogging-Website.git
 ```
 
---> To run the app,go into the cloned repository 
+--> Now go into the cloned repository 
 ```
 cd Flask-User-Blogging-Website
 ```
