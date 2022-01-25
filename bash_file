@@ -1,0 +1,4 @@
+
+set SECRET_KEY=109e2b0a44fe2775511812d55fe1951f
+set SQLALCHEMY_DATABASE_URI=sqlite:///site.db
+gunicorn -w 2 -b 0.0.0.0:3000 myapp:app
