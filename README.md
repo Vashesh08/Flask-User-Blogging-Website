@@ -34,7 +34,7 @@ cd ..
 --> The dependencies and modules required for this website are mentioned in the requirements.txt file
 --> To install all the dependencies, run the command on your shell:
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 --> To run the file 
