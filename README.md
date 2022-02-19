@@ -27,7 +27,11 @@ cd Flask-User-Blogging-Website
 --> To activate virtual environment, run the commands on your shell:
 ```
 cd Scripts
+```
+```
 activate
+```
+```
 cd ..
 ```
 
